@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# usage: ruby fizzbuzz 999 (where 999 is the total times, default = 100)
+# usage: ruby fizzbuzz.rb
 
 def fizzbuzz(number=100)
   number.times do |number|
